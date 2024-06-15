@@ -1,0 +1,6 @@
+.vscode
+bin
+Client.java
+ClientStatus.java
+DiscordRP.java
+PERSISTENT_DATA.txt
